@@ -1,2 +1,5 @@
-# propiel-machine-learning-research
-Master's Thesis project applying Machine Learning, demand forecasting, customer segmentation, and Business Intelligence to the healthcare sector, using real-world business data from Peru.
+## 📄 Project Documentation
+
+The complete academic project report is available below:
+
+📘 [Download Project Report (PDF)](./reports/Propiel_Machine_Learning_and_Business_Intelligence_Report.pdf)
